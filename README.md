@@ -22,7 +22,6 @@ Make your health a priority with Vitality Hub!
   cd client $$ npm install
   npx next
 ```
-For detailed info about server set-up, read [this](https://github.com/Quintensevinga/Vitality-Hub/blob/main/server/README.md).
 
 ## Tech Stack
 Vitality Hub is build with:
